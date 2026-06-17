@@ -1,9 +1,9 @@
-## LV-X
+## 이건우
 **반갑습니다**
 
 <br/>
 
-## 🛠️ Tech Stacks
+## Tech Stacks
 
 #### Frontend
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" /> <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
@@ -19,5 +19,5 @@
 
 <br/>
 
-## 🧑‍💻 Contact me
-<a href="mailto:lanterva@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white" /></a>
+## Contact me
+lanterva@gmail.com
