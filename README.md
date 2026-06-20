@@ -1,5 +1,8 @@
 ## 이건우
-**반갑습니다**
+6월 목표: hono crud 프로젝트 완성 ✅
+7월 목표: nestJS crud 프로젝트 진행 👌
+8월 목표: nestJS crud 프로젝트 완서 👌
+12월 목표: l.v.-assethub 배포 👌
 
 <br/>
 
